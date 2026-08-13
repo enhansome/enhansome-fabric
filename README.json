@@ -1,0 +1,441 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Official Wiki",
+          "description": "Contains some in-depth technical information, but is also missing a lot of topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-05T04:16:27Z",
+            "owner": "SpongePowered",
+            "repo": "Mixin",
+            "stars": 1713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MixinExtras Wiki",
+          "description": "MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T22:44:25Z",
+            "owner": "LlamaLad7",
+            "repo": "MixinExtras",
+            "stars": 445
+          }
+        }
+      ],
+      "title": "Mixins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fabric API",
+          "description": "Essential hooks and patches for modding with Fabric. (Wiki · Old Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T11:33:33Z",
+            "owner": "FabricMC",
+            "repo": "fabric-api",
+            "stars": 3145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oωo (owo-lib)",
+          "description": "A general utility library for content-focused modding on Fabric. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T17:39:24Z",
+            "owner": "wisp-forest",
+            "repo": "owo-lib",
+            "stars": 263
+          }
+        }
+      ],
+      "title": "Agnostic (Common & Multi-Feature)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oωo (owo-lib)",
+          "description": "A general utility library for content-focused modding on Fabric. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T17:39:24Z",
+            "owner": "wisp-forest",
+            "repo": "owo-lib",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdvancedChatCore",
+          "description": "The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-09-19T01:07:55Z",
+            "owner": "DarkKronicle",
+            "repo": "AdvancedChatCore",
+            "stars": 46
+          }
+        }
+      ],
+      "title": "Chat"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oωo (owo-lib)",
+          "description": "Another annotation-based full config library (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T17:39:24Z",
+            "owner": "wisp-forest",
+            "repo": "owo-lib",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloth Config",
+          "description": "A full-fledged, annotation-based configuration library. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-18T00:24:43Z",
+            "owner": "shedaniel",
+            "repo": "cloth-config",
+            "stars": 258
+          }
+        }
+      ],
+      "title": "Configs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Entities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DisguiseLib",
+          "description": "A (server-side) library for disguising entities in Minecraft.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-18T08:39:21Z",
+            "owner": "NucleoidMC",
+            "repo": "DisguiseLib",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Impersonate",
+          "description": "Allows players to take on the name and appearance of other players.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-24T07:47:18Z",
+            "owner": "Ladysnake",
+            "repo": "Impersonate",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Disguising & Impersonation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SpruceUI",
+          "description": "Utilities for creating GUIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-11T18:43:07Z",
+            "owner": "LambdAurora",
+            "repo": "SpruceUI",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Main Menu Credits",
+          "description": "Adds a way of adding information to the user's title screen. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-17T18:35:00Z",
+            "owner": "isXander",
+            "repo": "main-menu-credits",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "GUIs & Menus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trinkets",
+          "description": "A data-driven accessory mod that adds a slot group and slot system to Minecraft. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-25T22:40:09Z",
+            "owner": "emilyploszaj",
+            "repo": "trinkets",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibBlockAttributes",
+          "description": "(Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-02T05:00:02Z",
+            "owner": "AlexIIL",
+            "repo": "LibBlockAttributes",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Inventory & Transfer Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fabric-ASM",
+          "description": "Utilities for manipulating Java byte code and extending enums.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-16T19:42:13Z",
+            "owner": "Chocohead",
+            "repo": "Fabric-ASM",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mixin Constraints",
+          "description": "Annotation-based system to conditionally enable/disable Mixins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-07-18T07:36:58Z",
+            "owner": "Moulberry",
+            "repo": "MixinConstraints",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "Low-Level Manipulation (e.g. mixins or bytecode)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nbt Crafting",
+          "description": "JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-08-15T20:59:51Z",
+            "owner": "Siphalor",
+            "repo": "nbt-crafting",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Recipes",
+          "description": "Extends the recipe format with conditions. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-12-21T19:31:50Z",
+            "owner": "Kira-NT",
+            "repo": "smart-recipes",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Push To Craft",
+          "description": "Allows to provide alternatives for recipe ingredients in a general fashion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-14T21:36:33Z",
+            "owner": "Siphalor",
+            "repo": "push-to-craft",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Recipes & Crafting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeckoLib",
+          "description": "Forward kinematic gui-based animation engine. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-01T03:43:09Z",
+            "owner": "bernie-g",
+            "repo": "geckolib",
+            "stars": 827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Renderer",
+          "description": "An easy-to-use rendering library for modern FabricMC. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-02-18T15:19:19Z",
+            "owner": "0x3C50",
+            "repo": "Renderer",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSON Model Extensions",
+          "description": "Adds support for FREX Rendering API features to Minecraft JSON model loading. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-31T01:36:25Z",
+            "owner": "vram-guild",
+            "repo": "json-model-extensions",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JsonEM",
+          "description": "Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-16T02:40:13Z",
+            "owner": "FoundationGames",
+            "repo": "JsonEM",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FREX",
+          "description": "A rendering API for Minecraft mods to create content that wouldn't normally be possible. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-31T01:36:05Z",
+            "owner": "vram-guild",
+            "repo": "frex",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UltralightFabric",
+          "description": "A HTML renderer for Fabric. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2023-11-07T23:20:57Z",
+            "owner": "isXander",
+            "repo": "UltralightFabric",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LibZoomer",
+          "description": "A library for Minecraft 1.17+ that allows other mods to zoom easily while being able to customize it for their own needs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-06-14T15:22:13Z",
+            "owner": "Up-Mods",
+            "repo": "LibZoomer",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Visual, Models, Rendering & Animation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:14:34.079Z",
+    "original_repository": "Siphalor/awesome-fabric",
+    "original_repository_sha": "3b20c22a4e61c4d46d0990ff81b6fa27904a2a4b",
+    "enhanced_repository": "enhansome/enhansome-fabric",
+    "enhanced_repository_description": null,
+    "title": "Awesome fabric with stars"
+  }
+}
