@@ -14,7 +14,7 @@
             "last_commit": "2024-08-05T04:16:27Z",
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1714
+            "stars": 1712
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T22:44:25Z",
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 445
+            "stars": 444
           }
         }
       ],
@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T11:33:33Z",
+            "last_commit": "2026-08-15T07:47:44Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3144
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:12:47.744Z",
+    "last_updated": "2026-08-15T10:44:20.801Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_sha": "3b20c22a4e61c4d46d0990ff81b6fa27904a2a4b",
     "enhanced_repository": "enhansome/enhansome-fabric",
