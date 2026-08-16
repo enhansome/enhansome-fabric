@@ -94,7 +94,7 @@ The following symbols are used in this list:
 
 ### Data Parsing, Loading & Generation
 
-* [ARRP](https://github.com/Devan-Kerman/ARRP) ⭐ 106 | 🐛 16 | 🌐 Java | 📅 2024-05-31 [`🏰`](https://modrinth.com/mod/arrp) `🔝 26.1.2` - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki) ⭐ 106 | 🐛 16 | 🌐 Java | 📅 2024-05-31) `MPL-2.0`
+* [ARRP](https://github.com/Devan-Kerman/ARRP) ⭐ 106 | 🐛 17 | 🌐 Java | 📅 2024-05-31 [`🏰`](https://modrinth.com/mod/arrp) `🔝 26.1.2` - **A**dvanced **R**untime **R**esource **P**acks (for Fabric). ([Wiki](https://github.com/Devan-Kerman/ARRP/wiki) ⭐ 106 | 🐛 17 | 🌐 Java | 📅 2024-05-31) `MPL-2.0`
 
 ### Documentation
 
@@ -102,7 +102,7 @@ The following symbols are used in this list:
 
 ### Food
 
-* [Capsaicin](https://github.com/Siphalor/capsaicin) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-06-29 - Allows to dynamically modify food properties of items. `Apache-2.0`
+* [Capsaicin](https://github.com/Siphalor/capsaicin) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-08-15 - Allows to dynamically modify food properties of items. `Apache-2.0`
 
 ### Entities
 
@@ -154,7 +154,7 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-* [Polymer](https://github.com/Patbox/polymer) ⭐ 417 | 🐛 22 | 🌐 Java | 📅 2026-07-11 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+* [Polymer](https://github.com/Patbox/polymer) ⭐ 418 | 🐛 22 | 🌐 Java | 📅 2026-07-11 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
