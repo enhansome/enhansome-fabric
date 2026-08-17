@@ -48,7 +48,7 @@
             "last_commit": "2026-08-15T07:47:44Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3144
+            "stars": 3147
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-06T17:39:24Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 264
+            "stars": 265
           }
         }
       ],
@@ -82,7 +82,7 @@
             "last_commit": "2026-08-06T17:39:24Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 264
+            "stars": 265
           }
         },
         {
@@ -116,7 +116,7 @@
             "last_commit": "2026-08-06T17:39:24Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 264
+            "stars": 265
           }
         },
         {
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:44:43.333Z",
+    "last_updated": "2026-08-17T10:52:25.159Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_sha": "3b20c22a4e61c4d46d0990ff81b6fa27904a2a4b",
     "enhanced_repository": "enhansome/enhansome-fabric",
