@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T22:44:25Z",
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 444
+            "stars": 445
           }
         }
       ],
@@ -45,10 +45,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T07:47:44Z",
+            "last_commit": "2026-08-17T16:29:15Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3147
+            "stars": 3149
           }
         },
         {
@@ -431,9 +431,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:52:25.159Z",
+    "last_updated": "2026-08-18T10:51:57.418Z",
     "original_repository": "Siphalor/awesome-fabric",
-    "original_repository_sha": "3b20c22a4e61c4d46d0990ff81b6fa27904a2a4b",
+    "original_repository_sha": "93c2d2b60d1096de3015bae0f434380f7cc5f62a",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
