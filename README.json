@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27522093,
             "language": "Java",
             "last_commit": "2024-08-05T04:16:27Z",
             "owner": "SpongePowered",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444907542,
             "language": "Java",
             "last_commit": "2026-08-12T22:44:25Z",
             "owner": "LlamaLad7",
@@ -35,7 +37,7 @@
       "title": "Mixins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156061229,
             "language": "Java",
-            "last_commit": "2026-08-17T16:29:15Z",
+            "last_commit": "2026-08-18T13:25:17Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3149
+            "stars": 3148
           }
         },
         {
@@ -58,8 +61,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370481201,
             "language": "Java",
-            "last_commit": "2026-08-06T17:39:24Z",
+            "last_commit": "2026-08-19T00:20:17Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 265
@@ -69,7 +73,7 @@
       "title": "Agnostic (Common & Multi-Feature)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -78,8 +82,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370481201,
             "language": "Java",
-            "last_commit": "2026-08-06T17:39:24Z",
+            "last_commit": "2026-08-19T00:20:17Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 265
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 394716321,
             "language": "Java",
             "last_commit": "2024-09-19T01:07:55Z",
             "owner": "DarkKronicle",
@@ -103,7 +109,7 @@
       "title": "Chat"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -112,8 +118,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370481201,
             "language": "Java",
-            "last_commit": "2026-08-06T17:39:24Z",
+            "last_commit": "2026-08-19T00:20:17Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 265
@@ -126,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190706626,
             "language": "Java",
             "last_commit": "2026-06-18T00:24:43Z",
             "owner": "shedaniel",
@@ -137,46 +145,50 @@
       "title": "Configs"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DisguiseLib",
+              "description": "A (server-side) library for disguising entities in Minecraft.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338845616,
+                "language": "Java",
+                "last_commit": "2026-07-18T08:39:21Z",
+                "owner": "NucleoidMC",
+                "repo": "DisguiseLib",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Impersonate",
+              "description": "Allows players to take on the name and appearance of other players.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235895865,
+                "language": "Java",
+                "last_commit": "2026-03-24T07:47:18Z",
+                "owner": "Ladysnake",
+                "repo": "Impersonate",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Disguising & Impersonation"
+        }
+      ],
       "title": "Entities"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DisguiseLib",
-          "description": "A (server-side) library for disguising entities in Minecraft.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-18T08:39:21Z",
-            "owner": "NucleoidMC",
-            "repo": "DisguiseLib",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Impersonate",
-          "description": "Allows players to take on the name and appearance of other players.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-24T07:47:18Z",
-            "owner": "Ladysnake",
-            "repo": "Impersonate",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Disguising & Impersonation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -185,6 +197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 229954248,
             "language": "Java",
             "last_commit": "2026-06-11T18:43:07Z",
             "owner": "LambdAurora",
@@ -199,6 +212,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486707130,
             "language": "Java",
             "last_commit": "2026-06-17T18:35:00Z",
             "owner": "isXander",
@@ -210,7 +224,7 @@
       "title": "GUIs & Menus"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -219,6 +233,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208163445,
             "language": "Java",
             "last_commit": "2026-07-25T22:40:09Z",
             "owner": "emilyploszaj",
@@ -233,6 +248,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172804432,
             "language": "Java",
             "last_commit": "2024-08-02T05:00:02Z",
             "owner": "AlexIIL",
@@ -244,7 +260,7 @@
       "title": "Inventory & Transfer Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -253,6 +269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178946970,
             "language": "Java",
             "last_commit": "2023-12-16T19:42:13Z",
             "owner": "Chocohead",
@@ -267,6 +284,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 799173366,
             "language": "Java",
             "last_commit": "2025-07-18T07:36:58Z",
             "owner": "Moulberry",
@@ -278,7 +296,7 @@
       "title": "Low-Level Manipulation (e.g. mixins or bytecode)"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -287,6 +305,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 171002991,
             "language": "Java",
             "last_commit": "2023-08-15T20:59:51Z",
             "owner": "Siphalor",
@@ -301,6 +320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 402869483,
             "language": "Java",
             "last_commit": "2023-12-21T19:31:50Z",
             "owner": "Kira-NT",
@@ -315,6 +335,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285360890,
             "language": "Java",
             "last_commit": "2022-11-14T21:36:33Z",
             "owner": "Siphalor",
@@ -326,7 +347,7 @@
       "title": "Recipes & Crafting"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -335,11 +356,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261242492,
             "language": "Java",
             "last_commit": "2026-07-01T03:43:09Z",
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -349,6 +371,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 479814227,
             "language": "Java",
             "last_commit": "2026-02-18T15:19:19Z",
             "owner": "0x3C50",
@@ -363,6 +386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188631200,
             "language": "Java",
             "last_commit": "2024-07-31T01:36:25Z",
             "owner": "vram-guild",
@@ -377,6 +401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 439804107,
             "language": "Java",
             "last_commit": "2026-04-16T02:40:13Z",
             "owner": "FoundationGames",
@@ -391,6 +416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 406009842,
             "language": "Java",
             "last_commit": "2024-07-31T01:36:05Z",
             "owner": "vram-guild",
@@ -405,6 +431,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 443184822,
             "language": "Kotlin",
             "last_commit": "2023-11-07T23:20:57Z",
             "owner": "isXander",
@@ -419,6 +446,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 319986152,
             "language": "Java",
             "last_commit": "2024-06-14T15:22:13Z",
             "owner": "Up-Mods",
@@ -431,7 +459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T10:51:57.418Z",
+    "last_updated": "2026-08-19T10:51:01.045Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_sha": "93c2d2b60d1096de3015bae0f434380f7cc5f62a",
     "enhanced_repository": "enhansome/enhansome-fabric",
