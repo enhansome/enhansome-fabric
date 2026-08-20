@@ -30,7 +30,7 @@
             "last_commit": "2026-08-12T22:44:25Z",
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 445
+            "stars": 446
           }
         }
       ],
@@ -459,10 +459,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:05.021Z",
+    "last_updated": "2026-08-20T10:52:33.242Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_id": 296734404,
-    "original_repository_sha": "93c2d2b60d1096de3015bae0f434380f7cc5f62a",
+    "original_repository_sha": "b01cf88e41ca9c5620e627f8b5810b041a60dc38",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
