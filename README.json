@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T08:30:40Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3144
+            "stars": 3145
           }
         },
         {
@@ -143,6 +143,69 @@
         }
       ],
       "title": "Configs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ARRP",
+          "description": "Advanced Runtime Resource Packs (for Fabric). (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248269303,
+            "language": "Java",
+            "last_commit": "2024-05-31T20:39:43Z",
+            "owner": "Ueaj-Kerman",
+            "repo": "ARRP",
+            "stars": 106
+          }
+        }
+      ],
+      "title": "Data Parsing, Loading & Generation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Patchouli",
+          "description": "A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153085145,
+            "language": "Java",
+            "last_commit": "2026-07-10T06:27:04Z",
+            "owner": "VazkiiMods",
+            "repo": "Patchouli",
+            "stars": 382
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Capsaicin",
+          "description": "Allows to dynamically modify food properties of items.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 582301611,
+            "language": "Java",
+            "last_commit": "2026-08-15T14:05:39Z",
+            "owner": "Siphalor",
+            "repo": "capsaicin",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Food"
     },
     {
       "description": null,
@@ -294,6 +357,48 @@
         }
       ],
       "title": "Low-Level Manipulation (e.g. mixins or bytecode)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LibMultiPart",
+          "description": "Adds support for multiple \"parts\" (such as pipes, facades, wires, etc) in a single block. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191445366,
+            "language": "Java",
+            "last_commit": "2024-11-14T00:00:27Z",
+            "owner": "AlexIIL",
+            "repo": "LibMultiPart",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "Multipart"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LibNetworkStack",
+          "description": "Adds a networking layer for mods to communicate data more easily. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189762865,
+            "language": "Java",
+            "last_commit": "2024-12-13T04:38:33Z",
+            "owner": "AlexIIL",
+            "repo": "LibNetworkStack",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Networking & Packets"
     },
     {
       "description": null,
@@ -456,10 +561,94 @@
         }
       ],
       "title": "Visual, Models, Rendering & Animation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mod_jar_inspector",
+          "description": "Allows you to inspect mods in a directory like listing all jar-in-jars or all mixins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293306342,
+            "language": "Rust",
+            "last_commit": "2020-10-31T20:22:35Z",
+            "owner": "comp500",
+            "repo": "mod_jar_inspector",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Inspection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GeneratorFabricMod",
+          "description": "Prompts for various information and outputs a skeleton mod, ready to be modified.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237047245,
+            "language": "Java",
+            "last_commit": "2022-05-26T23:07:33Z",
+            "owner": "ExtraCrafTX",
+            "repo": "GeneratorFabricMod",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Generators"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GIUP",
+          "description": "Helps to maintain mods that are spread across Git branches for different MC versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332271910,
+            "language": "Python",
+            "last_commit": "2023-12-01T16:23:06Z",
+            "owner": "Siphalor",
+            "repo": "giup",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Versioning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Minecraft Development for IntelliJ",
+          "description": "Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. (Wiki)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42327118,
+            "language": "Kotlin",
+            "last_commit": "2026-08-09T21:33:08Z",
+            "owner": "minecraft-dev",
+            "repo": "MinecraftDev",
+            "stars": 1782
+          }
+        }
+      ],
+      "title": "IDE Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:58:27.688Z",
+    "last_updated": "2026-08-24T14:45:08.308Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_id": 296734404,
     "original_repository_sha": "b01cf88e41ca9c5620e627f8b5810b041a60dc38",
