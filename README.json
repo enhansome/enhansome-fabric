@@ -48,7 +48,7 @@
             "archived": false,
             "id": 156061229,
             "language": "Java",
-            "last_commit": "2026-08-22T07:48:37Z",
+            "last_commit": "2026-08-24T08:30:40Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3144
@@ -176,7 +176,7 @@
                 "last_commit": "2026-03-24T07:47:18Z",
                 "owner": "Ladysnake",
                 "repo": "Impersonate",
-                "stars": 11
+                "stars": 12
               }
             }
           ],
@@ -459,7 +459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:45:39.638Z",
+    "last_updated": "2026-08-24T10:58:27.688Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_id": 296734404,
     "original_repository_sha": "b01cf88e41ca9c5620e627f8b5810b041a60dc38",

@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,144 | 🐛 210 | 🌐 Java | 📅 2026-08-22 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-snapshot-9` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,144 | 🐛 209 | 🌐 Java | 📅 2026-08-24 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-snapshot-9` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 266 | 🐛 94 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 266 | 🐛 94 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
@@ -109,7 +109,7 @@ The following symbols are used in this list:
 #### Disguising & Impersonation
 
 * [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) ⭐ 12 | 🐛 20 | 🌐 Java | 📅 2026-07-18 [`🏰`](https://modrinth.com/mod/disguiselib) `🔝 1.19.3` - A (server-side) library for disguising entities in Minecraft. `MIT`
-* [Impersonate](https://github.com/Ladysnake/Impersonate) ⭐ 11 | 🐛 12 | 🌐 Java | 📅 2026-03-24 [`🏰`](https://modrinth.com/mod/impersonate) `🔝 1.21.11` - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
+* [Impersonate](https://github.com/Ladysnake/Impersonate) ⭐ 12 | 🐛 12 | 🌐 Java | 📅 2026-03-24 [`🏰`](https://modrinth.com/mod/impersonate) `🔝 1.21.11` - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
 
 ### Generation
 
@@ -158,7 +158,7 @@ The following symbols are used in this list:
 
 ### Visual, Models, Rendering & Animation
 
-* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 828 | 🐛 11 | 🌐 Java | 📅 2026-07-01 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.2` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 828 | 🐛 11 | 🌐 Java | 📅 2026-07-01) `LGPL-3.0-only`
+* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 828 | 🐛 10 | 🌐 Java | 📅 2026-07-01 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.2` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 828 | 🐛 10 | 🌐 Java | 📅 2026-07-01) `LGPL-3.0-only`
 * [Renderer](https://github.com/0x3C50/Renderer) ⚠️ Archived [`🏰`](https://modrinth.com/mod/renderer) `🔝 1.20.4` - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md) ⚠️ Archived) `BSD-3-Clause`
 * [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31) `LGPL-3`
 * [JsonEM](https://github.com/FoundationGames/JsonEM) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16 [`🏰`](https://modrinth.com/mod/jsonem) `🔝 26.1.1` - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16) `MIT`
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
