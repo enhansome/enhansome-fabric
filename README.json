@@ -466,7 +466,7 @@
             "last_commit": "2026-07-01T03:43:09Z",
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2026-08-09T21:33:08Z",
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1782
+            "stars": 1783
           }
         }
       ],
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:36.035Z",
+    "last_updated": "2026-08-25T10:55:50.019Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_id": 296734404,
     "original_repository_sha": "b01cf88e41ca9c5620e627f8b5810b041a60dc38",
