@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T08:30:40Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3145
+            "stars": 3148
           }
         },
         {
@@ -481,7 +481,7 @@
             "last_commit": "2026-02-18T15:19:19Z",
             "owner": "0x3C50",
             "repo": "Renderer",
-            "stars": 275
+            "stars": 276
           }
         },
         {
@@ -648,7 +648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:08.308Z",
+    "last_updated": "2026-08-25T06:38:36.035Z",
     "original_repository": "Siphalor/awesome-fabric",
     "original_repository_id": 296734404,
     "original_repository_sha": "b01cf88e41ca9c5620e627f8b5810b041a60dc38",
