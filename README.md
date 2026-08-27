@@ -58,7 +58,7 @@ The following symbols are used in this list:
 ### Mixins
 
 * [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,711 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
-* [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 448 | 🐛 15 | 🌐 Java | 📅 2026-08-12 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
+* [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 448 | 🐛 15 | 🌐 Java | 📅 2026-08-27 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
 ***
