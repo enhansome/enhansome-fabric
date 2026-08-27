@@ -15,7 +15,7 @@
             "last_commit": "2024-08-05T04:16:27Z",
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1710
+            "stars": 1711
           }
         },
         {
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 156061229,
             "language": "Java",
-            "last_commit": "2026-08-25T14:46:16Z",
+            "last_commit": "2026-08-27T08:30:30Z",
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3152
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-19T00:20:17Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 266
+            "stars": 267
           }
         }
       ],
@@ -87,7 +87,7 @@
             "last_commit": "2026-08-19T00:20:17Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 266
+            "stars": 267
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-19T00:20:17Z",
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 266
+            "stars": 267
           }
         },
         {
@@ -265,7 +265,7 @@
             "last_commit": "2026-06-11T18:43:07Z",
             "owner": "LambdAurora",
             "repo": "SpruceUI",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -640,7 +640,7 @@
             "last_commit": "2026-08-09T21:33:08Z",
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1783
+            "stars": 1784
           }
         }
       ],
@@ -648,9 +648,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:56:26.391Z",
-    "original_repository": "Siphalor/awesome-fabric",
-    "original_repository_id": 296734404,
+    "last_updated": "2026-08-27T11:44:30.859Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 296734404,
+      "language": "Python",
+      "last_commit": "2026-08-25T17:58:22Z",
+      "owner": "Siphalor",
+      "repo": "awesome-fabric",
+      "stars": 63
+    },
     "original_repository_sha": "85f9c9d83e14ad5b7b16d587d26f7fb613a4c62c",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
