@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1713,
+            "stars": 1714,
             "topics": [
               "annotations",
               "asm",
@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-27T08:30:30Z",
-            "open_issues": 211,
+            "open_issues": 217,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3157,
+            "stars": 3159,
             "topics": [
               "fabric",
               "java",
@@ -277,7 +277,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T06:27:04Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
             "stars": 382,
@@ -710,10 +710,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-30T01:35:53Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "animation",
               "animation-engine",
@@ -970,11 +970,11 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-09T21:33:08Z",
-            "open_issues": 235,
+            "last_commit": "2026-08-31T12:57:08Z",
+            "open_issues": 232,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1785,
+            "stars": 1786,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:54:04.104Z",
+    "last_updated": "2026-08-31T17:39:14.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
