@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T08:30:30Z",
-            "open_issues": 217,
+            "last_commit": "2026-09-01T11:03:19Z",
+            "open_issues": 207,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3159,
+            "stars": 3162,
             "topics": [
               "fabric",
               "java",
@@ -974,7 +974,7 @@
             "open_issues": 232,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1786,
+            "stars": 1787,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:39:14.496Z",
+    "last_updated": "2026-09-01T14:59:20.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
