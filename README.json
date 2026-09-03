@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1715,
+            "stars": 1716,
             "topics": [
               "annotations",
               "asm",
@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T16:39:56Z",
-            "open_issues": 210,
+            "last_commit": "2026-09-03T14:37:04Z",
+            "open_issues": 209,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3162,
+            "stars": 3165,
             "topics": [
               "fabric",
               "java",
@@ -217,7 +217,7 @@
             "open_issues": 152,
             "owner": "shedaniel",
             "repo": "cloth-config",
-            "stars": 258,
+            "stars": 256,
             "topics": [
               "fabricmc",
               "library",
@@ -971,7 +971,7 @@
             "language": "Kotlin",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-31T12:57:08Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
             "stars": 1788,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:34:09.942Z",
+    "last_updated": "2026-09-03T14:38:43.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
