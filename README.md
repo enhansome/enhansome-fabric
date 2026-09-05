@@ -57,7 +57,7 @@ The following symbols are used in this list:
 
 ### Mixins
 
-* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,716 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
+* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,717 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
 * [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 449 | 🐛 13 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,163 | 🐛 207 | 🌐 Java | 📅 2026-09-04 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-pre-1` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,162 | 🐛 208 | 🌐 Java | 📅 2026-09-04 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-pre-2` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 267 | 🐛 93 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 267 | 🐛 93 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
@@ -122,7 +122,7 @@ The following symbols are used in this list:
 
 ### Input Methods & Keybinds
 
-* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 37 | 🐛 45 | 🌐 Java | 📅 2026-05-31 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 37 | 🐛 46 | 🌐 Java | 📅 2026-05-31 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,788 | 🐛 233 | 🌐 Kotlin | 📅 2026-08-31 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,789 | 🐛 233 | 🌐 Kotlin | 📅 2026-08-31 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
