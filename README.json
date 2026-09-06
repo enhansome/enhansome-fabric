@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T14:48:17Z",
-            "open_issues": 208,
+            "open_issues": 209,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3162,
+            "stars": 3165,
             "topics": [
               "fabric",
               "java",
@@ -214,7 +214,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-06-18T00:24:43Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "shedaniel",
             "repo": "cloth-config",
             "stars": 256,
@@ -709,7 +709,7 @@
             "id": 261242492,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-30T01:35:53Z",
+            "last_commit": "2026-09-06T02:56:07Z",
             "open_issues": 11,
             "owner": "bernie-g",
             "repo": "geckolib",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:28:50.609Z",
+    "last_updated": "2026-09-06T13:43:37.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
