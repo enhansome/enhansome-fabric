@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1717,
+            "stars": 1718,
             "topics": [
               "annotations",
               "asm",
@@ -50,7 +50,7 @@
             "open_issues": 13,
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 449,
+            "stars": 450,
             "topics": [
               "bytecode-manipulation",
               "java",
@@ -78,7 +78,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T14:48:17Z",
-            "open_issues": 209,
+            "open_issues": 211,
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3165,
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 93,
+            "open_issues": 96,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 267,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 93,
+            "open_issues": 96,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 267,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 93,
+            "open_issues": 96,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 267,
@@ -713,7 +713,7 @@
             "open_issues": 11,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 830,
+            "stars": 831,
             "topics": [
               "animation",
               "animation-engine",
@@ -748,7 +748,7 @@
             "open_issues": 4,
             "owner": "0x3C50",
             "repo": "Renderer",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "fabric",
               "minecraft"
@@ -970,7 +970,7 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-31T12:57:08Z",
+            "last_commit": "2026-09-07T10:19:03Z",
             "open_issues": 233,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:43:37.577Z",
+    "last_updated": "2026-09-07T15:55:20.014Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
