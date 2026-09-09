@@ -57,7 +57,7 @@ The following symbols are used in this list:
 
 ### Mixins
 
-* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,719 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
+* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,720 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
 * [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 450 | 🐛 13 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
@@ -75,8 +75,8 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,167 | 🐛 203 | 🌐 Java | 📅 2026-09-08 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-pre-2` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 267 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 267 | 🐛 96 | 🌐 Java | 📅 2026-08-19) `MIT`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,166 | 🐛 203 | 🌐 Java | 📅 2026-09-09 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-pre-3` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
 
@@ -84,12 +84,12 @@ The following symbols are used in this list:
 
 ### Chat
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 267 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
 * [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) ⚠️ Archived [`🏰`](https://modrinth.com/mod/advancedchatcore) `🔝 1.19.4` - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
 
 ### Configs
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 267 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 * [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 256 | 🐛 153 | 🌐 Java | 📅 2026-06-18 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.2` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

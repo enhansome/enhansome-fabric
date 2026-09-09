@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1719,
+            "stars": 1720,
             "topics": [
               "annotations",
               "asm",
@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T14:25:10Z",
+            "last_commit": "2026-09-09T08:24:05Z",
             "open_issues": 203,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3167,
+            "stars": 3166,
             "topics": [
               "fabric",
               "java",
@@ -106,7 +106,7 @@
             "open_issues": 96,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "abstraction",
               "library",
@@ -138,7 +138,7 @@
             "open_issues": 96,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "abstraction",
               "library",
@@ -191,7 +191,7 @@
             "open_issues": 96,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "abstraction",
               "library",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T14:39:09.739Z",
+    "last_updated": "2026-09-09T14:40:31.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1011,7 +1011,7 @@
       "id": 296734404,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-04T19:48:29Z",
+      "last_commit": "2026-09-08T20:09:40Z",
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
@@ -1023,7 +1023,7 @@
         "minecraft-fabric"
       ]
     },
-    "original_repository_sha": "8b3f14c62d4f3367f91218bc8a932df63017841d",
+    "original_repository_sha": "440bcd4826265205ca6eb2a3906afd796db9ceb6",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
