@@ -77,8 +77,8 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T17:47:32Z",
-            "open_issues": 208,
+            "last_commit": "2026-09-12T07:41:09Z",
+            "open_issues": 207,
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3168,
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 268,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 268,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 268,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:30:54.145Z",
+    "last_updated": "2026-09-12T13:39:15.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1011,7 +1011,7 @@
       "id": 296734404,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-10T19:59:09Z",
+      "last_commit": "2026-09-11T19:58:19Z",
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
@@ -1023,7 +1023,7 @@
         "minecraft-fabric"
       ]
     },
-    "original_repository_sha": "f7dc9c40d0ac1f64feb9424ec586cf98fdef621a",
+    "original_repository_sha": "f1bdecf1367d0cbea9ca902fc9544cafad1a0328",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"

@@ -75,8 +75,8 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,168 | 🐛 208 | 🌐 Java | 📅 2026-09-10 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-rc-1` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19) `MIT`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,168 | 🐛 207 | 🌐 Java | 📅 2026-09-12 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-rc-2` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
 
@@ -84,12 +84,12 @@ The following symbols are used in this list:
 
 ### Chat
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
 * [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) ⚠️ Archived [`🏰`](https://modrinth.com/mod/advancedchatcore) `🔝 1.19.4` - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
 
 ### Configs
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 96 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 * [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 257 | 🐛 153 | 🌐 Java | 📅 2026-06-18 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.2` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
@@ -154,7 +154,7 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-* [Polymer](https://github.com/Patbox/polymer) ⭐ 424 | 🐛 14 | 🌐 Java | 📅 2026-09-10 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.2` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+* [Polymer](https://github.com/Patbox/polymer) ⭐ 424 | 🐛 14 | 🌐 Java | 📅 2026-09-10 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.2 / 26.3-rc-1` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
