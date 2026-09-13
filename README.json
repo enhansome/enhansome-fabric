@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1720,
+            "stars": 1721,
             "topics": [
               "annotations",
               "asm",
@@ -217,7 +217,7 @@
             "open_issues": 153,
             "owner": "shedaniel",
             "repo": "cloth-config",
-            "stars": 257,
+            "stars": 258,
             "topics": [
               "fabricmc",
               "library",
@@ -280,7 +280,7 @@
             "open_issues": 220,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
-            "stars": 381,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -713,7 +713,7 @@
             "open_issues": 11,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 833,
+            "stars": 834,
             "topics": [
               "animation",
               "animation-engine",
@@ -971,10 +971,10 @@
             "language": "Kotlin",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-09T17:45:43Z",
-            "open_issues": 228,
+            "open_issues": 229,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1789,
+            "stars": 1790,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:39:15.999Z",
+    "last_updated": "2026-09-13T14:29:15.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
