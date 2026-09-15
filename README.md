@@ -57,7 +57,7 @@ The following symbols are used in this list:
 
 ### Mixins
 
-* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,721 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
+* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,722 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
 * [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 450 | 🐛 13 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
@@ -75,12 +75,12 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,168 | 🐛 210 | 🌐 Java | 📅 2026-09-12 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-rc-2` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,171 | 🐛 209 | 🌐 Java | 📅 2026-09-14 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.2 / 26.3-rc-3` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
 
-* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-07-15 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-07-15) `Apache-2.0`
+* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-15 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-15) `Apache-2.0`
 
 ### Chat
 
@@ -90,7 +90,7 @@ The following symbols are used in this list:
 ### Configs
 
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
-* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 258 | 🐛 153 | 🌐 Java | 📅 2026-09-14 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.2` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 260 | 🐛 153 | 🌐 Java | 📅 2026-09-14 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.2` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
 
@@ -113,11 +113,11 @@ The following symbols are used in this list:
 
 ### Generation
 
-* [Terraformers' Shapes](https://github.com/TerraformersMC/Terraform) ⭐ 44 | 🐛 3 | 🌐 Java | 📅 2026-08-09 - A context independent library for generating voxel shapes using mathematical equations. ([Wiki](https://github.com/TerraformersMC/Shapes/wiki/Using-Shapes) ⚠️ Archived) `MIT`
+* [Terraformers' Shapes](https://github.com/TerraformersMC/Terraform) ⭐ 44 | 🐛 2 | 🌐 Java | 📅 2026-09-15 - A context independent library for generating voxel shapes using mathematical equations. ([Wiki](https://github.com/TerraformersMC/Shapes/wiki/Using-Shapes) ⚠️ Archived) `MIT`
 
 ### GUIs & Menus
 
-* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 186 | 🐛 7 | 🌐 Java | 📅 2026-06-11 - Utilities for creating GUIs. `MIT`
+* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 186 | 🐛 6 | 🌐 Java | 📅 2026-09-14 - Utilities for creating GUIs. `MIT`
 * [Main Menu Credits](https://github.com/isXander/main-menu-credits) ⭐ 28 | 🐛 14 | 🌐 Java | 📅 2026-06-17 [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 26.2` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage) ⭐ 28 | 🐛 14 | 🌐 Java | 📅 2026-06-17) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,791 | 🐛 228 | 🌐 Kotlin | 📅 2026-09-14 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,792 | 🐛 228 | 🌐 Kotlin | 📅 2026-09-14 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
