@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T08:10:42Z",
-            "open_issues": 203,
+            "open_issues": 205,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3173,
+            "stars": 3174,
             "topics": [
               "fabric",
               "java",
@@ -280,7 +280,7 @@
             "open_issues": 220,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
-            "stars": 384,
+            "stars": 385,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -974,7 +974,7 @@
             "open_issues": 228,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1793,
+            "stars": 1792,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:05:48.463Z",
+    "last_updated": "2026-09-18T14:33:13.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1011,7 +1011,7 @@
       "id": 296734404,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-16T20:22:00Z",
+      "last_commit": "2026-09-17T20:30:05Z",
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
@@ -1023,7 +1023,7 @@
         "minecraft-fabric"
       ]
     },
-    "original_repository_sha": "424e7ee7c109d88509773f4d452cd155345d437e",
+    "original_repository_sha": "e89129240cb88d6942c10e05c9d07b3aa1ba6146",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
