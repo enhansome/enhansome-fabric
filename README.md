@@ -58,7 +58,7 @@ The following symbols are used in this list:
 ### Mixins
 
 * [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,723 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
-* [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 450 | 🐛 13 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
+* [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 450 | 🐛 14 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
 ***
@@ -75,21 +75,21 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,174 | 🐛 205 | 🌐 Java | 📅 2026-09-17 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19) `MIT`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,174 | 🐛 201 | 🌐 Java | 📅 2026-09-19 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 268 | 🐛 98 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
 
-* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-15 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-15) `Apache-2.0`
+* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-19 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-19) `Apache-2.0`
 
 ### Chat
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
 * [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) ⚠️ Archived [`🏰`](https://modrinth.com/mod/advancedchatcore) `🔝 1.19.4` - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
 
 ### Configs
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 97 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 * [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 260 | 🐛 155 | 🌐 Java | 📅 2026-09-14 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
@@ -98,7 +98,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 385 | 🐛 220 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 386 | 🐛 221 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -117,7 +117,7 @@ The following symbols are used in this list:
 
 ### GUIs & Menus
 
-* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 186 | 🐛 6 | 🌐 Java | 📅 2026-09-14 - Utilities for creating GUIs. `MIT`
+* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 187 | 🐛 6 | 🌐 Java | 📅 2026-09-14 - Utilities for creating GUIs. `MIT`
 * [Main Menu Credits](https://github.com/isXander/main-menu-credits) ⭐ 28 | 🐛 15 | 🌐 Java | 📅 2026-06-17 [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 26.2` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage) ⭐ 28 | 🐛 15 | 🌐 Java | 📅 2026-06-17) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
@@ -126,7 +126,7 @@ The following symbols are used in this list:
 
 ### Inventory & Transfer Systems
 
-* [Trinkets](https://github.com/emilyalexandra/trinkets) ⭐ 208 | 🐛 84 | 🌐 Java | 📅 2026-07-25 [`🏰`](https://modrinth.com/mod/trinkets) `🔝 1.21.1` - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki) ⭐ 208 | 🐛 84 | 🌐 Java | 📅 2026-07-25) `MIT`
+* [Trinkets](https://github.com/emilyalexandra/trinkets) ⭐ 208 | 🐛 85 | 🌐 Java | 📅 2026-07-25 [`🏰`](https://modrinth.com/mod/trinkets) `🔝 1.21.1` - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki) ⭐ 208 | 🐛 85 | 🌐 Java | 📅 2026-07-25) `MIT`
 * [LibBlockAttributes](https://github.com/AlexIIL/LibBlockAttributes) ⭐ 44 | 🐛 7 | 🌐 Java | 📅 2024-08-02 -  ([Wiki](https://github.com/AlexIIL/LibBlockAttributes/wiki) ⭐ 44 | 🐛 7 | 🌐 Java | 📅 2024-08-02) `MPL-2.0`
 
 ### Items & Equippables
@@ -154,11 +154,11 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-* [Polymer](https://github.com/Patbox/polymer) ⭐ 425 | 🐛 14 | 🌐 Java | 📅 2026-09-17 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+* [Polymer](https://github.com/Patbox/polymer) ⭐ 425 | 🐛 14 | 🌐 Java | 📅 2026-09-18 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
-* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 834 | 🐛 10 | 🌐 Java | 📅 2026-09-16 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 834 | 🐛 10 | 🌐 Java | 📅 2026-09-16) `LGPL-3.0-only`
+* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 835 | 🐛 10 | 🌐 Java | 📅 2026-09-16 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 835 | 🐛 10 | 🌐 Java | 📅 2026-09-16) `LGPL-3.0-only`
 * [Renderer](https://github.com/0x3C50/Renderer) ⚠️ Archived [`🏰`](https://modrinth.com/mod/renderer) `🔝 1.20.4` - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md) ⚠️ Archived) `BSD-3-Clause`
 * [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31) `LGPL-3`
 * [JsonEM](https://github.com/FoundationGames/JsonEM) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16 [`🏰`](https://modrinth.com/mod/jsonem) `🔝 26.1.1` - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16) `MIT`
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,792 | 🐛 228 | 🌐 Kotlin | 📅 2026-09-14 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,793 | 🐛 228 | 🌐 Kotlin | 📅 2026-09-14 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
