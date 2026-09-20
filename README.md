@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,174 | 🐛 201 | 🌐 Java | 📅 2026-09-19 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,175 | 🐛 202 | 🌐 Java | 📅 2026-09-19 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 268 | 🐛 98 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
@@ -90,7 +90,7 @@ The following symbols are used in this list:
 ### Configs
 
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 268 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
-* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 260 | 🐛 155 | 🌐 Java | 📅 2026-09-14 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 261 | 🐛 155 | 🌐 Java | 📅 2026-09-14 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
 
@@ -117,12 +117,12 @@ The following symbols are used in this list:
 
 ### GUIs & Menus
 
-* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 187 | 🐛 6 | 🌐 Java | 📅 2026-09-14 - Utilities for creating GUIs. `MIT`
+* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 188 | 🐛 6 | 🌐 Java | 📅 2026-09-14 - Utilities for creating GUIs. `MIT`
 * [Main Menu Credits](https://github.com/isXander/main-menu-credits) ⭐ 28 | 🐛 15 | 🌐 Java | 📅 2026-06-17 [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 26.2` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage) ⭐ 28 | 🐛 15 | 🌐 Java | 📅 2026-06-17) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
 
-* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 37 | 🐛 47 | 🌐 Java | 📅 2026-05-31 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 37 | 🐛 40 | 🌐 Java | 📅 2026-09-19 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,793 | 🐛 228 | 🌐 Kotlin | 📅 2026-09-14 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,793 | 🐛 229 | 🌐 Kotlin | 📅 2026-09-14 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
