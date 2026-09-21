@@ -50,7 +50,7 @@
             "open_issues": 14,
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 450,
+            "stars": 449,
             "topics": [
               "bytecode-manipulation",
               "java",
@@ -78,7 +78,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T21:56:46Z",
-            "open_issues": 202,
+            "open_issues": 206,
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3175,
@@ -106,7 +106,7 @@
             "open_issues": 98,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "abstraction",
               "library",
@@ -138,7 +138,7 @@
             "open_issues": 98,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "abstraction",
               "library",
@@ -191,7 +191,7 @@
             "open_issues": 98,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "abstraction",
               "library",
@@ -713,7 +713,7 @@
             "open_issues": 10,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "animation",
               "animation-engine",
@@ -970,11 +970,11 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-09-14T11:39:42Z",
-            "open_issues": 229,
+            "last_commit": "2026-09-20T21:48:36Z",
+            "open_issues": 228,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1793,
+            "stars": 1795,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:16:38.575Z",
+    "last_updated": "2026-09-21T16:30:43.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
