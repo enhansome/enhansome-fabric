@@ -16,7 +16,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2024-08-05T04:16:27Z",
-            "open_issues": 113,
+            "open_issues": 112,
             "owner": "SpongePowered",
             "repo": "Mixin",
             "stars": 1723,
@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-19T21:56:46Z",
-            "open_issues": 206,
+            "open_issues": 207,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3175,
+            "stars": 3176,
             "topics": [
               "fabric",
               "java",
@@ -106,7 +106,7 @@
             "open_issues": 98,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "abstraction",
               "library",
@@ -138,7 +138,7 @@
             "open_issues": 98,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "abstraction",
               "library",
@@ -191,7 +191,7 @@
             "open_issues": 98,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 269,
+            "stars": 270,
             "topics": [
               "abstraction",
               "library",
@@ -217,7 +217,7 @@
             "open_issues": 155,
             "owner": "shedaniel",
             "repo": "cloth-config",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "fabricmc",
               "library",
@@ -709,7 +709,7 @@
             "id": 261242492,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-16T07:33:23Z",
+            "last_commit": "2026-09-22T07:57:55Z",
             "open_issues": 10,
             "owner": "bernie-g",
             "repo": "geckolib",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T16:30:43.119Z",
+    "last_updated": "2026-09-22T15:02:33.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
