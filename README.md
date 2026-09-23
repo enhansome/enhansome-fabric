@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,176 | 🐛 207 | 🌐 Java | 📅 2026-09-19 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,176 | 🐛 209 | 🌐 Java | 📅 2026-09-22 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-1` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 270 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 270 | 🐛 98 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
@@ -90,7 +90,7 @@ The following symbols are used in this list:
 ### Configs
 
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 270 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
-* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 262 | 🐛 155 | 🌐 Java | 📅 2026-09-14 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 262 | 🐛 154 | 🌐 Java | 📅 2026-09-23 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
 
@@ -98,7 +98,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 386 | 🐛 221 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 385 | 🐛 221 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -126,7 +126,7 @@ The following symbols are used in this list:
 
 ### Inventory & Transfer Systems
 
-* [Trinkets](https://github.com/emilyalexandra/trinkets) ⭐ 208 | 🐛 85 | 🌐 Java | 📅 2026-07-25 [`🏰`](https://modrinth.com/mod/trinkets) `🔝 1.21.1` - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki) ⭐ 208 | 🐛 85 | 🌐 Java | 📅 2026-07-25) `MIT`
+* [Trinkets](https://github.com/emilyalexandra/trinkets) ⭐ 207 | 🐛 83 | 🌐 Java | 📅 2026-07-25 [`🏰`](https://modrinth.com/mod/trinkets) `🔝 1.21.1` - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki) ⭐ 207 | 🐛 83 | 🌐 Java | 📅 2026-07-25) `MIT`
 * [LibBlockAttributes](https://github.com/AlexIIL/LibBlockAttributes) ⭐ 44 | 🐛 7 | 🌐 Java | 📅 2024-08-02 -  ([Wiki](https://github.com/AlexIIL/LibBlockAttributes/wiki) ⭐ 44 | 🐛 7 | 🌐 Java | 📅 2024-08-02) `MPL-2.0`
 
 ### Items & Equippables
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
