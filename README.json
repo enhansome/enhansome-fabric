@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T20:19:45Z",
-            "open_issues": 208,
+            "open_issues": 210,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3177,
+            "stars": 3179,
             "topics": [
               "fabric",
               "java",
@@ -710,10 +710,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-22T07:57:55Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 835,
+            "stars": 836,
             "topics": [
               "animation",
               "animation-engine",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:16:50.757Z",
+    "last_updated": "2026-09-25T15:21:18.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1011,7 +1011,7 @@
       "id": 296734404,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-22T20:26:07Z",
+      "last_commit": "2026-09-24T20:41:34Z",
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
@@ -1023,7 +1023,7 @@
         "minecraft-fabric"
       ]
     },
-    "original_repository_sha": "2c6f5b7e6564ed94e938833491323210b1de79e2",
+    "original_repository_sha": "2ed9dc82769ab3ffeffb4ce406f4a20b5cf812f3",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
