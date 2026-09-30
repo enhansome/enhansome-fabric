@@ -75,21 +75,21 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,181 | 🐛 215 | 🌐 Java | 📅 2026-09-29 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-1` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 271 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 271 | 🐛 98 | 🌐 Java | 📅 2026-08-19) `MIT`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,182 | 🐛 218 | 🌐 Java | 📅 2026-09-29 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-2` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 272 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 272 | 🐛 98 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
 
-* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-19 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-19) `Apache-2.0`
+* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-30 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-30) `Apache-2.0`
 
 ### Chat
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 271 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 272 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://docs.wispforest.io/owo/setup)) `MIT`
 * [AdvancedChatCore](https://github.com/DarkKronicle/AdvancedChatCore) ⚠️ Archived [`🏰`](https://modrinth.com/mod/advancedchatcore) `🔝 1.19.4` - The base mod of all AdvancedChat modules and features, presenting an API to achieve many different functionalities related to the Minecraft chat. ([Wiki](https://darkkronicle.github.io/AdvancedChatCore/)) `MPL-2.0`
 
 ### Configs
 
-* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 271 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
+* [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 272 | 🐛 98 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
 * [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 262 | 🐛 154 | 🌐 Java | 📅 2026-09-23 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
@@ -154,7 +154,7 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-* [Polymer](https://github.com/Patbox/polymer) ⭐ 425 | 🐛 15 | 🌐 Java | 📅 2026-09-28 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+* [Polymer](https://github.com/Patbox/polymer) ⭐ 426 | 🐛 15 | 🌐 Java | 📅 2026-09-28 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
