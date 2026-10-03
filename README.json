@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T14:26:10Z",
+            "last_commit": "2026-10-03T07:49:30Z",
             "open_issues": 218,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3182,
+            "stars": 3181,
             "topics": [
               "fabric",
               "java",
@@ -713,7 +713,7 @@
             "open_issues": 11,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "animation",
               "animation-engine",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:43:10.349Z",
+    "last_updated": "2026-10-03T14:45:35.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
