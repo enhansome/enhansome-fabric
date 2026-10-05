@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1726,
+            "stars": 1727,
             "topics": [
               "annotations",
               "asm",
@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T07:49:30Z",
-            "open_issues": 220,
+            "open_issues": 219,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3183,
+            "stars": 3184,
             "topics": [
               "fabric",
               "java",
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 274,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 274,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 274,
@@ -748,7 +748,7 @@
             "open_issues": 4,
             "owner": "0x3C50",
             "repo": "Renderer",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "fabric",
               "minecraft"
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:25:46.595Z",
+    "last_updated": "2026-10-05T19:20:19.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
