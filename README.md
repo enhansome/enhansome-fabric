@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,185 | 🐛 213 | 🌐 Java | 📅 2026-10-06 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-2` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,186 | 🐛 215 | 🌐 Java | 📅 2026-10-06 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-2` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 275 | 🐛 101 | 🌐 Java | 📅 2026-08-19 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 275 | 🐛 101 | 🌐 Java | 📅 2026-08-19) `MIT`
 
 ### Audio
@@ -176,7 +176,7 @@ The following symbols are used in this list:
 
 ### Generators
 
-* [GeneratorFabricMod](https://github.com/ExtraCrafTX/GeneratorFabricMod) ⭐ 100 | 🐛 6 | 🌐 Java | 📅 2022-05-26 - Prompts for various information and outputs a skeleton mod, ready to be modified. `Apache-2.0`
+* [GeneratorFabricMod](https://github.com/ExtraCrafTX/GeneratorFabricMod) ⭐ 101 | 🐛 6 | 🌐 Java | 📅 2022-05-26 - Prompts for various information and outputs a skeleton mod, ready to be modified. `Apache-2.0`
 
 ### Versioning
 
