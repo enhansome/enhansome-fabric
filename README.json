@@ -277,10 +277,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T06:27:04Z",
-            "open_issues": 223,
+            "open_issues": 238,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
-            "stars": 390,
+            "stars": 391,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -710,7 +710,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-27T09:53:20Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "bernie-g",
             "repo": "geckolib",
             "stars": 840,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:27:58.808Z",
+    "last_updated": "2026-10-08T17:27:32.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",

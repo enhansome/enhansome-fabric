@@ -80,7 +80,7 @@ The following symbols are used in this list:
 
 ### Audio
 
-* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-30 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-09-30) `Apache-2.0`
+* [Sound Categories](https://github.com/stashingco/sound-categories) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-10-08 [`🏰`](https://modrinth.com/mod/sound-categories) `🔝 1.19` - Allows mods to add more sound categories, and modifies the Minecraft sound settings menu to fit as many categories as required. ([Wiki](https://github.com/stashingco/sound-categories/blob/main/README.md) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-10-08) `Apache-2.0`
 
 ### Chat
 
@@ -98,7 +98,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 390 | 🐛 223 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 391 | 🐛 238 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -158,7 +158,7 @@ The following symbols are used in this list:
 
 ### Visual, Models, Rendering & Animation
 
-* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 840 | 🐛 12 | 🌐 Java | 📅 2026-09-27 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 840 | 🐛 12 | 🌐 Java | 📅 2026-09-27) `LGPL-3.0-only`
+* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 840 | 🐛 13 | 🌐 Java | 📅 2026-09-27 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 840 | 🐛 13 | 🌐 Java | 📅 2026-09-27) `LGPL-3.0-only`
 * [Renderer](https://github.com/0x3C50/Renderer) ⚠️ Archived [`🏰`](https://modrinth.com/mod/renderer) `🔝 1.20.4` - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md) ⚠️ Archived) `BSD-3-Clause`
 * [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31) `LGPL-3`
 * [JsonEM](https://github.com/FoundationGames/JsonEM) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16 [`🏰`](https://modrinth.com/mod/jsonem) `🔝 26.1.1` - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16) `MIT`
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
