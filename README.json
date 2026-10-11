@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1728,
+            "stars": 1729,
             "topics": [
               "annotations",
               "asm",
@@ -81,7 +81,7 @@
             "open_issues": 218,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3193,
+            "stars": 3194,
             "topics": [
               "fabric",
               "java",
@@ -417,7 +417,7 @@
             "language": "Java",
             "license": "MPL-2.0",
             "last_commit": "2026-06-17T18:35:00Z",
-            "open_issues": 17,
+            "open_issues": 16,
             "owner": "isXander",
             "repo": "main-menu-credits",
             "stars": 28,
@@ -532,7 +532,7 @@
             "open_issues": 0,
             "owner": "Moulberry",
             "repo": "MixinConstraints",
-            "stars": 54,
+            "stars": 55,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -713,7 +713,7 @@
             "open_issues": 13,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 841,
+            "stars": 842,
             "topics": [
               "animation",
               "animation-engine",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:54:07.812Z",
+    "last_updated": "2026-10-11T16:21:35.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
