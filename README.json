@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1730,
+            "stars": 1729,
             "topics": [
               "annotations",
               "asm",
@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T07:48:15Z",
+            "last_commit": "2026-10-13T15:56:32Z",
             "open_issues": 219,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3195,
+            "stars": 3196,
             "topics": [
               "fabric",
               "java",
@@ -164,7 +164,7 @@
             "open_issues": 31,
             "owner": "DarkKronicle",
             "repo": "AdvancedChatCore",
-            "stars": 45,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -277,10 +277,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T06:27:04Z",
-            "open_issues": 239,
+            "open_issues": 241,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
-            "stars": 393,
+            "stars": 392,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -713,7 +713,7 @@
             "open_issues": 13,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 842,
+            "stars": 841,
             "topics": [
               "animation",
               "animation-engine",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:53:01.764Z",
+    "last_updated": "2026-10-13T17:40:22.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1015,7 +1015,7 @@
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
-      "stars": 63,
+      "stars": 64,
       "topics": [
         "awesome",
         "awesome-list",
