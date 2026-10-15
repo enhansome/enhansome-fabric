@@ -50,7 +50,7 @@
             "open_issues": 14,
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 449,
+            "stars": 450,
             "topics": [
               "bytecode-manipulation",
               "java",
@@ -78,7 +78,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T10:31:54Z",
-            "open_issues": 215,
+            "open_issues": 217,
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3195,
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 103,
+            "open_issues": 104,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -713,7 +713,7 @@
             "open_issues": 13,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 841,
+            "stars": 840,
             "topics": [
               "animation",
               "animation-engine",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:14:24.938Z",
+    "last_updated": "2026-10-15T15:08:16.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
