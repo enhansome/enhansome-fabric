@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1729,
+            "stars": 1730,
             "topics": [
               "annotations",
               "asm",
@@ -78,7 +78,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T10:31:54Z",
-            "open_issues": 217,
+            "open_issues": 221,
             "owner": "FabricMC",
             "repo": "fabric-api",
             "stars": 3195,
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-08-19T00:20:17Z",
-            "open_issues": 104,
+            "open_issues": 105,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -280,7 +280,7 @@
             "open_issues": 241,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
-            "stars": 392,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -974,7 +974,7 @@
             "open_issues": 230,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1798,
+            "stars": 1799,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T15:08:16.211Z",
+    "last_updated": "2026-10-16T14:56:00.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
