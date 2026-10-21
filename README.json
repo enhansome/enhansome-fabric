@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T10:17:06Z",
-            "open_issues": 218,
+            "last_commit": "2026-10-20T16:26:02Z",
+            "open_issues": 219,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3198,
+            "stars": 3197,
             "topics": [
               "fabric",
               "java",
@@ -713,7 +713,7 @@
             "open_issues": 17,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 841,
+            "stars": 842,
             "topics": [
               "animation",
               "animation-engine",
@@ -748,7 +748,7 @@
             "open_issues": 4,
             "owner": "0x3C50",
             "repo": "Renderer",
-            "stars": 276,
+            "stars": 275,
             "topics": [
               "fabric",
               "minecraft"
@@ -970,11 +970,11 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-17T10:13:15Z",
-            "open_issues": 231,
+            "last_commit": "2026-10-21T10:27:23Z",
+            "open_issues": 230,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1806,
+            "stars": 1807,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:12:15.558Z",
+    "last_updated": "2026-10-21T15:23:13.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1011,7 +1011,7 @@
       "id": 296734404,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-13T21:56:11Z",
+      "last_commit": "2026-10-20T20:47:33Z",
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
@@ -1023,7 +1023,7 @@
         "minecraft-fabric"
       ]
     },
-    "original_repository_sha": "75644cdb754a0de786a57d7826916235242cc3e0",
+    "original_repository_sha": "bbb660575a9b00f15c864bd3969dd159798fa8fb",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
