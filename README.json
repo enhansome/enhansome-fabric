@@ -81,7 +81,7 @@
             "open_issues": 219,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3197,
+            "stars": 3199,
             "topics": [
               "fabric",
               "java",
@@ -713,7 +713,7 @@
             "open_issues": 17,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 842,
+            "stars": 843,
             "topics": [
               "animation",
               "animation-engine",
@@ -974,7 +974,7 @@
             "open_issues": 230,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1807,
+            "stars": 1810,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T15:23:13.460Z",
+    "last_updated": "2026-10-22T15:23:55.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
