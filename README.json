@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-20T16:26:02Z",
-            "open_issues": 219,
+            "last_commit": "2026-10-23T08:42:27Z",
+            "open_issues": 209,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3199,
+            "stars": 3200,
             "topics": [
               "fabric",
               "java",
@@ -277,7 +277,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T06:27:04Z",
-            "open_issues": 241,
+            "open_issues": 240,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
             "stars": 393,
@@ -974,7 +974,7 @@
             "open_issues": 230,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1810,
+            "stars": 1813,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:23:55.574Z",
+    "last_updated": "2026-10-23T15:13:15.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",

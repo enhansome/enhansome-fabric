@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,199 | 🐛 219 | 🌐 Java | 📅 2026-10-20 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-5` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,200 | 🐛 209 | 🌐 Java | 📅 2026-10-23 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-5` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 276 | 🐛 101 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 276 | 🐛 101 | 🌐 Java | 📅 2026-10-16) `MIT`
 
 ### Audio
@@ -98,7 +98,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 393 | 🐛 241 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 393 | 🐛 240 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -154,7 +154,7 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-* [Polymer](https://github.com/Patbox/polymer) ⭐ 429 | 🐛 18 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+* [Polymer](https://github.com/Patbox/polymer) ⭐ 429 | 🐛 19 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,810 | 🐛 230 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,813 | 🐛 230 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
