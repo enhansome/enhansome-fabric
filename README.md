@@ -57,7 +57,7 @@ The following symbols are used in this list:
 
 ### Mixins
 
-* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,731 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
+* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,732 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
 * [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 451 | 🐛 14 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,200 | 🐛 209 | 🌐 Java | 📅 2026-10-23 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-5` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,199 | 🐛 209 | 🌐 Java | 📅 2026-10-24 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-5` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 276 | 🐛 101 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 276 | 🐛 101 | 🌐 Java | 📅 2026-10-16) `MIT`
 
 ### Audio
@@ -108,7 +108,7 @@ The following symbols are used in this list:
 
 #### Disguising & Impersonation
 
-* [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) ⭐ 12 | 🐛 20 | 🌐 Java | 📅 2026-09-25 [`🏰`](https://modrinth.com/mod/disguiselib) `🔝 1.19.3` - A (server-side) library for disguising entities in Minecraft. `MIT`
+* [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) ⭐ 12 | 🐛 20 | 🌐 Java | 📅 2026-10-23 [`🏰`](https://modrinth.com/mod/disguiselib) `🔝 1.19.3` - A (server-side) library for disguising entities in Minecraft. `MIT`
 * [Impersonate](https://github.com/Ladysnake/Impersonate) ⭐ 12 | 🐛 13 | 🌐 Java | 📅 2026-03-24 [`🏰`](https://modrinth.com/mod/impersonate) `🔝 1.21.11` - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
 
 ### Generation
@@ -117,7 +117,7 @@ The following symbols are used in this list:
 
 ### GUIs & Menus
 
-* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 189 | 🐛 6 | 🌐 Java | 📅 2026-09-14 - Utilities for creating GUIs. `MIT`
+* [SpruceUI](https://github.com/LambdAurora/SpruceUI) ⭐ 190 | 🐛 6 | 🌐 Java | 📅 2026-09-14 - Utilities for creating GUIs. `MIT`
 * [Main Menu Credits](https://github.com/isXander/main-menu-credits) ⭐ 28 | 🐛 16 | 🌐 Java | 📅 2026-06-17 [`🏰`](https://modrinth.com/mod/main-menu-credits) `🔝 26.3` - Adds a way of adding information to the user's title screen. ([Wiki](https://github.com/isXander/main-menu-credits/wiki/Usage) ⭐ 28 | 🐛 16 | 🌐 Java | 📅 2026-06-17) `LGPL-3.0-only`
 
 ### Input Methods & Keybinds
@@ -154,7 +154,7 @@ The following symbols are used in this list:
 
 ### Server-Side Only
 
-* [Polymer](https://github.com/Patbox/polymer) ⭐ 429 | 🐛 19 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+* [Polymer](https://github.com/Patbox/polymer) ⭐ 429 | 🐛 16 | 🌐 Java | 📅 2026-10-24 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,813 | 🐛 230 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,812 | 🐛 230 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
