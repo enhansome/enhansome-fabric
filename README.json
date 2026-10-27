@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1733,
+            "stars": 1732,
             "topics": [
               "annotations",
               "asm",
@@ -50,7 +50,7 @@
             "open_issues": 14,
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 452,
+            "stars": 453,
             "topics": [
               "bytecode-manipulation",
               "java",
@@ -81,7 +81,7 @@
             "open_issues": 209,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3203,
+            "stars": 3204,
             "topics": [
               "fabric",
               "java",
@@ -529,7 +529,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2025-07-18T07:36:58Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Moulberry",
             "repo": "MixinConstraints",
             "stars": 55,
@@ -710,10 +710,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-27T09:53:20Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 845,
+            "stars": 846,
             "topics": [
               "animation",
               "animation-engine",
@@ -971,7 +971,7 @@
             "language": "Kotlin",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-21T10:27:23Z",
-            "open_issues": 230,
+            "open_issues": 231,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
             "stars": 1815,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:50:08.877Z",
+    "last_updated": "2026-10-27T15:55:11.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
