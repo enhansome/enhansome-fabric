@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T19:18:29Z",
+            "last_commit": "2026-10-27T17:15:45Z",
             "open_issues": 209,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3204,
+            "stars": 3205,
             "topics": [
               "fabric",
               "java",
@@ -748,7 +748,7 @@
             "open_issues": 4,
             "owner": "0x3C50",
             "repo": "Renderer",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "fabric",
               "minecraft"
@@ -971,10 +971,10 @@
             "language": "Kotlin",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-21T10:27:23Z",
-            "open_issues": 231,
+            "open_issues": 232,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1815,
+            "stars": 1816,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:55:11.759Z",
+    "last_updated": "2026-10-28T16:43:45.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1011,7 +1011,7 @@
       "id": 296734404,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-20T20:47:33Z",
+      "last_commit": "2026-10-27T21:26:53Z",
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
@@ -1023,7 +1023,7 @@
         "minecraft-fabric"
       ]
     },
-    "original_repository_sha": "bbb660575a9b00f15c864bd3969dd159798fa8fb",
+    "original_repository_sha": "df887cbb3c5669cabeb035d9a08fc5fe417a81ff",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
