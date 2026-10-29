@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1732,
+            "stars": 1733,
             "topics": [
               "annotations",
               "asm",
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -713,7 +713,7 @@
             "open_issues": 20,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "animation",
               "animation-engine",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:43:45.286Z",
+    "last_updated": "2026-10-29T16:59:07.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
