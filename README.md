@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,207 | 🐛 215 | 🌐 Java | 📅 2026-11-03 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26.4-snapshot-6` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,208 | 🐛 215 | 🌐 Java | 📅 2026-11-03 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 276 | 🐛 101 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 276 | 🐛 101 | 🌐 Java | 📅 2026-10-16) `MIT`
 
 ### Audio
@@ -90,7 +90,7 @@ The following symbols are used in this list:
 ### Configs
 
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 276 | 🐛 101 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
-* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 263 | 🐛 154 | 🌐 Java | 📅 2026-10-18 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 263 | 🐛 155 | 🌐 Java | 📅 2026-10-18 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
 
@@ -109,7 +109,7 @@ The following symbols are used in this list:
 #### Disguising & Impersonation
 
 * [DisguiseLib](https://github.com/NucleoidMC/DisguiseLib) ⭐ 12 | 🐛 20 | 🌐 Java | 📅 2026-10-23 [`🏰`](https://modrinth.com/mod/disguiselib) `🔝 1.19.3` - A (server-side) library for disguising entities in Minecraft. `MIT`
-* [Impersonate](https://github.com/Ladysnake/Impersonate) ⭐ 12 | 🐛 13 | 🌐 Java | 📅 2026-03-24 [`🏰`](https://modrinth.com/mod/impersonate) `🔝 1.21.11` - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
+* [Impersonate](https://github.com/Ladysnake/Impersonate) ⭐ 12 | 🐛 13 | 🌐 Java | 📅 2026-03-24 [`🏰`](https://modrinth.com/mod/impersonate) `🔝 1.21.4` - Allows players to take on the name and appearance of other players. `LGPL-3.0-only`
 
 ### Generation
 
@@ -122,7 +122,7 @@ The following symbols are used in this list:
 
 ### Input Methods & Keybinds
 
-* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 39 | 🐛 40 | 🌐 Java | 📅 2026-10-25 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 39 | 🐛 40 | 🌐 Java | 📅 2026-10-25 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2 / 26.2-rc-2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
@@ -131,7 +131,7 @@ The following symbols are used in this list:
 
 ### Items & Equippables
 
-* [Shield Lib](https://github.com/StellarWind22/Shield-Lib) ⭐ 44 | 🐛 0 | 🌐 Java | 📅 2025-11-23 [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
+* [Shield Lib](https://github.com/StellarWind22/Shield-Lib) ⭐ 44 | 🐛 0 | 🌐 Java | 📅 2025-11-23 [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8 / 21w05b` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
 ### Low-Level Manipulation (e.g. mixins or bytecode)
 
@@ -148,21 +148,21 @@ The following symbols are used in this list:
 
 ### Recipes & Crafting
 
-* [Nbt Crafting](https://github.com/Siphalor/nbt-crafting) ⚠️ Archived [`🏰`](https://modrinth.com/mod/nbt-crafting) `🔝 1.19.2` - JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. ([Wiki](https://mcwiki.siphalor.de/nbt-crafting/v2)) `Apache-2.0`
+* [Nbt Crafting](https://github.com/Siphalor/nbt-crafting) ⚠️ Archived [`🏰`](https://modrinth.com/mod/nbt-crafting) `🔝 1.19.2 / 21w15a` - JSON-driven nbt data in recipes and remainders as well as brewing recipes and a lot more. ([Wiki](https://mcwiki.siphalor.de/nbt-crafting/v2)) `Apache-2.0`
 * [Smart Recipes](https://github.com/Kir-Antipov/smart-recipes) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2023-12-21 [`🏰`](https://modrinth.com/mod/smart-recipes) `🔝 1.20.4` - Extends the recipe format with conditions. ([Wiki](https://github.com/Kir-Antipov/smart-recipes#readme) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2023-12-21) `MIT`
 * [Push To Craft](https://github.com/Siphalor/push-to-craft) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2022-11-14 [`🏰`](https://modrinth.com/mod/push-to-craft) `🔝 1.19.2` - Allows to provide alternatives for recipe ingredients in a general fashion. `MIT`
 
 ### Server-Side Only
 
-* [Polymer](https://github.com/Patbox/polymer) ⭐ 429 | 🐛 16 | 🌐 Java | 📅 2026-11-03 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
+* [Polymer](https://github.com/Patbox/polymer) ⭐ 429 | 🐛 16 | 🌐 Java | 📅 2026-11-03 [`🏰`](https://modrinth.com/mod/polymer) `🔝 26.3 / 26.3-rc-1` - A collection of libraries allowing more seamlessly developing mods that run server-side only. ([Wiki](https://polymer.pb4.eu/latest/)) `LGPL-3.0-only`
 
 ### Visual, Models, Rendering & Animation
 
-* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 848 | 🐛 21 | 🌐 Java | 📅 2026-09-27 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 848 | 🐛 21 | 🌐 Java | 📅 2026-09-27) `LGPL-3.0-only`
+* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 849 | 🐛 21 | 🌐 Java | 📅 2026-09-27 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 849 | 🐛 21 | 🌐 Java | 📅 2026-09-27) `LGPL-3.0-only`
 * [Renderer](https://github.com/0x3C50/Renderer) ⚠️ Archived [`🏰`](https://modrinth.com/mod/renderer) `🔝 1.20.4` - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md) ⚠️ Archived) `BSD-3-Clause`
-* [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31) `LGPL-3`
+* [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1 / 23w13a_or_b` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31) `LGPL-3`
 * [JsonEM](https://github.com/FoundationGames/JsonEM) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16 [`🏰`](https://modrinth.com/mod/jsonem) `🔝 26.1.1` - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16) `MIT`
-* [FREX](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1` - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31) `LGPL-3.0-only`
+* [FREX](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1 / 23w13a_or_b` - A rendering API for Minecraft mods to create content that wouldn't normally be possible. ([Wiki](https://github.com/vram-guild/frex/wiki) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31) `LGPL-3.0-only`
 * [UltralightFabric](https://github.com/isXander/UltralightFabric) ⚠️ Archived [`🏰`](https://modrinth.com/mod/ultralightfabric) `🔝 1.18.1` - A HTML renderer for Fabric. ([Wiki](https://github.com/isXander/UltralightFabric/wiki) ⚠️ Archived) `LGPL-3.0-only`
 * [LibZoomer](https://github.com/EnnuiL/LibZoomer/issues) ⚠️ Archived - A library for Minecraft 1.17+ that allows other mods to zoom easily while being able to customize it for their own needs. `MIT`
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,821 | 🐛 232 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,822 | 🐛 232 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
