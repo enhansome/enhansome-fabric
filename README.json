@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1736,
+            "stars": 1738,
             "topics": [
               "annotations",
               "asm",
@@ -81,7 +81,7 @@
             "open_issues": 215,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3208,
+            "stars": 3210,
             "topics": [
               "fabric",
               "java",
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 101,
+            "open_issues": 103,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 101,
+            "open_issues": 103,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 101,
+            "open_issues": 103,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -394,7 +394,7 @@
             "open_issues": 6,
             "owner": "LambdAurora",
             "repo": "SpruceUI",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "fabricmc",
               "gui",
@@ -713,7 +713,7 @@
             "open_issues": 21,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 849,
+            "stars": 848,
             "topics": [
               "animation",
               "animation-engine",
@@ -971,7 +971,7 @@
             "language": "Kotlin",
             "license": "LGPL-3.0",
             "last_commit": "2026-10-21T10:27:23Z",
-            "open_issues": 232,
+            "open_issues": 233,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
             "stars": 1822,
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:05:49.374Z",
+    "last_updated": "2026-11-05T18:07:18.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
