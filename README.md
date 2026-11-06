@@ -57,7 +57,7 @@ The following symbols are used in this list:
 
 ### Mixins
 
-* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,738 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
+* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,737 | 🐛 113 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
 * [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 453 | 🐛 14 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
@@ -131,7 +131,7 @@ The following symbols are used in this list:
 
 ### Items & Equippables
 
-* [Shield Lib](https://github.com/StellarWind22/Shield-Lib) ⭐ 44 | 🐛 0 | 🌐 Java | 📅 2025-11-23 [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8 / 21w05b` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
+* [Shield Lib](https://github.com/StellarWind22/Shield-Lib) ⭐ 43 | 🐛 0 | 🌐 Java | 📅 2025-11-23 [`🏰`](https://modrinth.com/mod/shieldlib) `🔝 1.21.8 / 21w05b` - Library mod for easily adding shields, and shield enchantments into the game. ([Wiki](https://fabricmc.net/wiki/tutorial:shield)) `LGPL-2.1`
 
 ### Low-Level Manipulation (e.g. mixins or bytecode)
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,822 | 🐛 233 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,821 | 🐛 233 | 🌐 Kotlin | 📅 2026-10-21 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

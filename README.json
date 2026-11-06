@@ -19,7 +19,7 @@
             "open_issues": 113,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1738,
+            "stars": 1737,
             "topics": [
               "annotations",
               "asm",
@@ -974,7 +974,7 @@
             "open_issues": 233,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1822,
+            "stars": 1821,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:07:18.981Z",
+    "last_updated": "2026-11-06T17:34:42.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
