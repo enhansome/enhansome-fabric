@@ -81,7 +81,7 @@
             "open_issues": 215,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3210,
+            "stars": 3209,
             "topics": [
               "fabric",
               "java",
@@ -103,7 +103,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 103,
+            "open_issues": 105,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -135,7 +135,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 103,
+            "open_issues": 105,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -188,7 +188,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 103,
+            "open_issues": 105,
             "owner": "wisp-forest",
             "repo": "owo-lib",
             "stars": 276,
@@ -532,7 +532,7 @@
             "open_issues": 1,
             "owner": "Moulberry",
             "repo": "MixinConstraints",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -713,7 +713,7 @@
             "open_issues": 24,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 848,
+            "stars": 847,
             "topics": [
               "animation",
               "animation-engine",
@@ -974,7 +974,7 @@
             "open_issues": 233,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1821,
+            "stars": 1822,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:32:50.268Z",
+    "last_updated": "2026-11-08T16:44:04.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
@@ -1011,7 +1011,7 @@
       "id": 296734404,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-03T22:28:29Z",
+      "last_commit": "2026-11-07T21:02:37Z",
       "open_issues": 0,
       "owner": "Siphalor",
       "repo": "awesome-fabric",
@@ -1023,7 +1023,7 @@
         "minecraft-fabric"
       ]
     },
-    "original_repository_sha": "7593cd0b31e2103fa22eb428f67b4ac2cea31be6",
+    "original_repository_sha": "2b863f6b5cc28d8db8c1c4cef30a556177f62fcf",
     "enhanced_repository": "enhansome/enhansome-fabric",
     "enhanced_repository_description": null,
     "title": "Awesome fabric with stars"
