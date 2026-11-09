@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2024-08-05T04:16:27Z",
-            "open_issues": 113,
+            "open_issues": 114,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1738,
+            "stars": 1737,
             "topics": [
               "annotations",
               "asm",
@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T07:41:21Z",
-            "open_issues": 215,
+            "last_commit": "2026-11-09T15:32:48Z",
+            "open_issues": 204,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3209,
+            "stars": 3210,
             "topics": [
               "fabric",
               "java",
@@ -103,10 +103,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 105,
+            "open_issues": 107,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "abstraction",
               "library",
@@ -135,10 +135,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 105,
+            "open_issues": 107,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "abstraction",
               "library",
@@ -188,10 +188,10 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-16T20:35:29Z",
-            "open_issues": 105,
+            "open_issues": 107,
             "owner": "wisp-forest",
             "repo": "owo-lib",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "abstraction",
               "library",
@@ -277,7 +277,7 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-07-10T06:27:04Z",
-            "open_issues": 242,
+            "open_issues": 243,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
             "stars": 395,
@@ -394,7 +394,7 @@
             "open_issues": 6,
             "owner": "LambdAurora",
             "repo": "SpruceUI",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "fabricmc",
               "gui",
@@ -506,7 +506,7 @@
             "open_issues": 14,
             "owner": "Chocohead",
             "repo": "Fabric-ASM",
-            "stars": 179,
+            "stars": 180,
             "topics": [
               "fabric",
               "fabric-mod",
@@ -713,7 +713,7 @@
             "open_issues": 24,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "animation",
               "animation-engine",
@@ -912,7 +912,7 @@
             "open_issues": 5,
             "owner": "ExtraCrafTX",
             "repo": "GeneratorFabricMod",
-            "stars": 101,
+            "stars": 100,
             "topics": [
               "fabricmc",
               "minecraft"
@@ -971,10 +971,10 @@
             "language": "Kotlin",
             "license": "LGPL-3.0",
             "last_commit": "2026-11-07T09:35:32Z",
-            "open_issues": 233,
+            "open_issues": 236,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1822,
+            "stars": 1823,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:44:04.048Z",
+    "last_updated": "2026-11-09T20:52:15.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
