@@ -16,7 +16,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2024-08-05T04:16:27Z",
-            "open_issues": 114,
+            "open_issues": 115,
             "owner": "SpongePowered",
             "repo": "Mixin",
             "stars": 1737,
@@ -50,7 +50,7 @@
             "open_issues": 14,
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "bytecode-manipulation",
               "java",
@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T15:32:48Z",
-            "open_issues": 204,
+            "open_issues": 205,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3210,
+            "stars": 3211,
             "topics": [
               "fabric",
               "java",
@@ -970,11 +970,11 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-07T09:35:32Z",
-            "open_issues": 236,
+            "last_commit": "2026-11-10T02:36:19Z",
+            "open_issues": 232,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1823,
+            "stars": 1822,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T20:52:15.401Z",
+    "last_updated": "2026-11-10T17:58:43.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
