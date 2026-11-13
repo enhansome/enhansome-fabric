@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,216 | 🐛 203 | 🌐 Java | 📅 2026-11-11 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,215 | 🐛 203 | 🌐 Java | 📅 2026-11-11 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 277 | 🐛 107 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 277 | 🐛 107 | 🌐 Java | 📅 2026-10-16) `MIT`
 
 ### Audio
@@ -98,7 +98,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 395 | 🐛 243 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 395 | 🐛 244 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,821 | 🐛 233 | 🌐 Kotlin | 📅 2026-11-12 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,822 | 🐛 233 | 🌐 Kotlin | 📅 2026-11-13 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
