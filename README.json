@@ -50,7 +50,7 @@
             "open_issues": 14,
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "bytecode-manipulation",
               "java",
@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T13:44:05Z",
+            "last_commit": "2026-11-14T07:41:26Z",
             "open_issues": 203,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3215,
+            "stars": 3216,
             "topics": [
               "fabric",
               "java",
@@ -451,7 +451,7 @@
             "open_issues": 82,
             "owner": "emilyploszaj",
             "repo": "trinkets",
-            "stars": 207,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -710,7 +710,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-09-27T09:53:20Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "bernie-g",
             "repo": "geckolib",
             "stars": 850,
@@ -970,11 +970,11 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-13T07:23:54Z",
-            "open_issues": 233,
+            "last_commit": "2026-11-14T06:36:06Z",
+            "open_issues": 230,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1822,
+            "stars": 1824,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:54:04.538Z",
+    "last_updated": "2026-11-14T16:38:50.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
