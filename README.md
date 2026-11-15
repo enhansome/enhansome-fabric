@@ -122,7 +122,7 @@ The following symbols are used in this list:
 
 ### Input Methods & Keybinds
 
-* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 38 | 🐛 40 | 🌐 Java | 📅 2026-10-25 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2 / 26.2-rc-2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 38 | 🐛 40 | 🌐 Java | 📅 2026-11-15 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2 / 26.2-rc-2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,824 | 🐛 230 | 🌐 Kotlin | 📅 2026-11-14 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,825 | 🐛 230 | 🌐 Kotlin | 📅 2026-11-15 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._

@@ -970,11 +970,11 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-14T06:36:06Z",
+            "last_commit": "2026-11-15T06:46:53Z",
             "open_issues": 230,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1824,
+            "stars": 1825,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:38:50.816Z",
+    "last_updated": "2026-11-15T17:16:44.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
