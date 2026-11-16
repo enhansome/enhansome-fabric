@@ -57,7 +57,7 @@ The following symbols are used in this list:
 
 ### Mixins
 
-* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,737 | 🐛 115 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
+* [Official Wiki](https://github.com/SpongePowered/Mixin/wiki) ⭐ 1,738 | 🐛 116 | 🌐 Java | 📅 2024-08-05 - Contains some in-depth technical information, but is also missing a lot of topics.
 * [MixinExtras Wiki](https://github.com/LlamaLad7/MixinExtras/wiki) ⭐ 456 | 🐛 14 | 🌐 Java | 📅 2026-08-28 - MixinExtras is nowadays included in Fabric loader, so you can use all of it out of the box.
 * [Unofficial Wiki](https://mixin-wiki.readthedocs.io/) - A simpler and more beginner-friendly version of the official wiki.
 
@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,216 | 🐛 203 | 🌐 Java | 📅 2026-11-14 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,216 | 🐛 204 | 🌐 Java | 📅 2026-11-14 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 277 | 🐛 107 | 🌐 Java | 📅 2026-10-16 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 277 | 🐛 107 | 🌐 Java | 📅 2026-10-16) `MIT`
 
 ### Audio
@@ -98,7 +98,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 395 | 🐛 244 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 396 | 🐛 245 | 🌐 Java | 📅 2026-07-10 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -122,11 +122,11 @@ The following symbols are used in this list:
 
 ### Input Methods & Keybinds
 
-* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 38 | 🐛 40 | 🌐 Java | 📅 2026-11-15 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.2 / 26.2-rc-2` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
+* [The Sisterhood of Amecs](https://github.com/Siphalor/amecs) ⭐ 38 | 🐛 42 | 🌐 Java | 📅 2026-11-15 [`🏰`](https://modrinth.com/mod/amecs) `🔝 26.3 / 26.4-snapshot-8` - Various key binding related features such as key modifiers, multiple shortcuts per binding, priority key bindings or key binding descriptions `Apache-2.0`
 
 ### Inventory & Transfer Systems
 
-* [Trinkets](https://github.com/emilyalexandra/trinkets) ⭐ 206 | 🐛 82 | 🌐 Java | 📅 2026-07-25 [`🏰`](https://modrinth.com/mod/trinkets) `🔝 1.21.1` - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki) ⭐ 206 | 🐛 82 | 🌐 Java | 📅 2026-07-25) `MIT`
+* [Trinkets](https://github.com/emilyalexandra/trinkets) ⭐ 206 | 🐛 81 | 🌐 Java | 📅 2026-07-25 [`🏰`](https://modrinth.com/mod/trinkets) `🔝 1.21.1` - A data-driven accessory mod that adds a slot group and slot system to Minecraft. ([Wiki](https://github.com/emilyploszaj/trinkets/wiki) ⭐ 206 | 🐛 81 | 🌐 Java | 📅 2026-07-25) `MIT`
 * [LibBlockAttributes](https://github.com/AlexIIL/LibBlockAttributes) ⭐ 44 | 🐛 7 | 🌐 Java | 📅 2024-08-02 -  ([Wiki](https://github.com/AlexIIL/LibBlockAttributes/wiki) ⭐ 44 | 🐛 7 | 🌐 Java | 📅 2024-08-02) `MPL-2.0`
 
 ### Items & Equippables
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,825 | 🐛 230 | 🌐 Kotlin | 📅 2026-11-15 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,826 | 🐛 227 | 🌐 Kotlin | 📅 2026-11-16 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
