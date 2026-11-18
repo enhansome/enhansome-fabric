@@ -19,7 +19,7 @@
             "open_issues": 116,
             "owner": "SpongePowered",
             "repo": "Mixin",
-            "stars": 1738,
+            "stars": 1739,
             "topics": [
               "annotations",
               "asm",
@@ -78,10 +78,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T17:35:16Z",
-            "open_issues": 205,
+            "open_issues": 207,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3215,
+            "stars": 3218,
             "topics": [
               "fabric",
               "java",
@@ -276,7 +276,7 @@
             "id": 153085145,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-07-10T06:27:04Z",
+            "last_commit": "2026-11-17T21:42:40Z",
             "open_issues": 244,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
@@ -394,7 +394,7 @@
             "open_issues": 6,
             "owner": "LambdAurora",
             "repo": "SpruceUI",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "fabricmc",
               "gui",
@@ -710,7 +710,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-11-17T07:33:04Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "bernie-g",
             "repo": "geckolib",
             "stars": 852,
@@ -974,7 +974,7 @@
             "open_issues": 228,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1826,
+            "stars": 1827,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:14:39.870Z",
+    "last_updated": "2026-11-18T18:54:54.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
