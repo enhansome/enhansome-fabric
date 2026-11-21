@@ -709,8 +709,8 @@
             "id": 261242492,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-17T07:33:04Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-21T10:00:43Z",
+            "open_issues": 27,
             "owner": "bernie-g",
             "repo": "geckolib",
             "stars": 852,
@@ -974,7 +974,7 @@
             "open_issues": 228,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1828,
+            "stars": 1827,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:39:39.792Z",
+    "last_updated": "2026-11-21T17:39:49.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
