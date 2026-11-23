@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T14:50:45Z",
-            "open_issues": 210,
+            "last_commit": "2026-11-23T13:41:32Z",
+            "open_issues": 208,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3216,
+            "stars": 3217,
             "topics": [
               "fabric",
               "java",
@@ -709,8 +709,8 @@
             "id": 261242492,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-22T10:01:54Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-23T12:10:23Z",
+            "open_issues": 13,
             "owner": "bernie-g",
             "repo": "geckolib",
             "stars": 852,
@@ -970,7 +970,7 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-22T12:35:16Z",
+            "last_commit": "2026-11-23T05:28:50Z",
             "open_issues": 229,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:55:19.531Z",
+    "last_updated": "2026-11-23T22:06:25.121Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
