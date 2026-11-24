@@ -50,7 +50,7 @@
             "open_issues": 14,
             "owner": "LlamaLad7",
             "repo": "MixinExtras",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "bytecode-manipulation",
               "java",
@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T13:41:32Z",
-            "open_issues": 208,
+            "last_commit": "2026-11-24T15:28:35Z",
+            "open_issues": 210,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3217,
+            "stars": 3218,
             "topics": [
               "fabric",
               "java",
@@ -970,7 +970,7 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-23T05:28:50Z",
+            "last_commit": "2026-11-24T06:49:45Z",
             "open_issues": 229,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:06:25.121Z",
+    "last_updated": "2026-11-24T20:42:58.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",
