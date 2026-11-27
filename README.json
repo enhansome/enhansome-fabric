@@ -77,11 +77,11 @@
             "id": 156061229,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T15:28:35Z",
+            "last_commit": "2026-11-27T12:43:32Z",
             "open_issues": 210,
             "owner": "FabricMC",
             "repo": "fabric-api",
-            "stars": 3220,
+            "stars": 3219,
             "topics": [
               "fabric",
               "java",
@@ -217,7 +217,7 @@
             "open_issues": 156,
             "owner": "shedaniel",
             "repo": "cloth-config",
-            "stars": 263,
+            "stars": 262,
             "topics": [
               "fabricmc",
               "library",
@@ -280,7 +280,7 @@
             "open_issues": 244,
             "owner": "VazkiiMods",
             "repo": "Patchouli",
-            "stars": 396,
+            "stars": 395,
             "topics": []
           },
           "first_seen": "2026-08-28T21:12:09.330Z"
@@ -709,11 +709,11 @@
             "id": 261242492,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-11-23T12:10:23Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-27T08:37:34Z",
+            "open_issues": 12,
             "owner": "bernie-g",
             "repo": "geckolib",
-            "stars": 852,
+            "stars": 851,
             "topics": [
               "animation",
               "animation-engine",
@@ -912,7 +912,7 @@
             "open_issues": 5,
             "owner": "ExtraCrafTX",
             "repo": "GeneratorFabricMod",
-            "stars": 100,
+            "stars": 99,
             "topics": [
               "fabricmc",
               "minecraft"
@@ -970,11 +970,11 @@
             "id": 42327118,
             "language": "Kotlin",
             "license": "LGPL-3.0",
-            "last_commit": "2026-11-24T06:49:45Z",
+            "last_commit": "2026-11-27T07:02:20Z",
             "open_issues": 230,
             "owner": "minecraft-dev",
             "repo": "MinecraftDev",
-            "stars": 1828,
+            "stars": 1829,
             "topics": [
               "architectury",
               "bukkit",
@@ -1003,7 +1003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:42:48.160Z",
+    "last_updated": "2026-11-27T19:31:21.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Fabric libraries and tools - contributions welcome",

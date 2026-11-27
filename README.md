@@ -75,7 +75,7 @@ The following symbols are used in this list:
 
 ### Agnostic (Common & Multi-Feature)
 
-* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,220 | 🐛 210 | 🌐 Java | 📅 2026-11-24 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
+* [Fabric API](https://github.com/FabricMC/fabric) ⭐ 3,219 | 🐛 210 | 🌐 Java | 📅 2026-11-27 [`🏰`](https://modrinth.com/mod/fabric-api) `🔝 26.3 / 26w14a` - Essential hooks and patches for modding with Fabric. ([Wiki](https://docs.fabricmc.net/) · [Old Wiki](https://fabricmc.net/wiki)) `Apache-2.0`
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 276 | 🐛 104 | 🌐 Java | 📅 2026-11-18 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - A general utility library for content-focused modding on Fabric. ([Wiki](https://github.com/wisp-forest/owo-lib/blob/1.18.2/README.md) ⭐ 276 | 🐛 104 | 🌐 Java | 📅 2026-11-18) `MIT`
 
 ### Audio
@@ -90,7 +90,7 @@ The following symbols are used in this list:
 ### Configs
 
 * [oωo (owo-lib)](https://github.com/glisco03/owo-lib) ⭐ 276 | 🐛 104 | 🌐 Java | 📅 2026-11-18 [`🏰`](https://modrinth.com/mod/owo-lib) `🔝 26.2` - Another annotation-based full config library ([Wiki](https://docs.wispforest.io/owo/config)) `MIT`
-* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 263 | 🐛 156 | 🌐 Java | 📅 2026-11-25 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
+* [Cloth Config](https://github.com/shedaniel/ClothConfig/) ⭐ 262 | 🐛 156 | 🌐 Java | 📅 2026-11-25 [`🏰`](https://modrinth.com/mod/cloth-config) `🔝 26.3` - A full-fledged, annotation-based configuration library. ([Wiki](https://shedaniel.gitbook.io/cloth-config/)) `Apache-2.0`
 
 ### Data Parsing, Loading & Generation
 
@@ -98,7 +98,7 @@ The following symbols are used in this list:
 
 ### Documentation
 
-* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 396 | 🐛 244 | 🌐 Java | 📅 2026-11-17 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
+* [Patchouli](https://github.com/VazkiiMods/Patchouli/) ⭐ 395 | 🐛 244 | 🌐 Java | 📅 2026-11-17 [`🏰`](https://modrinth.com/mod/patchouli) `🔝 26.1.2` - A mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike. ([Wiki]()) `BY-NC-SA 3.0`
 
 ### Food
 
@@ -158,7 +158,7 @@ The following symbols are used in this list:
 
 ### Visual, Models, Rendering & Animation
 
-* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 852 | 🐛 13 | 🌐 Java | 📅 2026-11-23 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 852 | 🐛 13 | 🌐 Java | 📅 2026-11-23) `LGPL-3.0-only`
+* [GeckoLib](https://github.com/bernie-g/geckolib) ⭐ 851 | 🐛 12 | 🌐 Java | 📅 2026-11-27 [`🏰`](https://modrinth.com/mod/geckolib) `🔝 26.3` - Forward kinematic gui-based animation engine. ([Wiki](https://github.com/bernie-g/geckolib/wiki/Getting-Started) ⭐ 851 | 🐛 12 | 🌐 Java | 📅 2026-11-27) `LGPL-3.0-only`
 * [Renderer](https://github.com/0x3C50/Renderer) ⚠️ Archived [`🏰`](https://modrinth.com/mod/renderer) `🔝 1.20.4` - An easy-to-use rendering library for modern FabricMC. ([Wiki](https://github.com/0x3C50/Renderer/blob/master/README.md) ⚠️ Archived) `BSD-3-Clause`
 * [JSON Model Extensions](https://github.com/vram-guild/json-model-extensions) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31 [`🏰`](https://modrinth.com/mod/imx) `🔝 1.20.1 / 23w13a_or_b` - Adds support for [FREX Rendering API](https://github.com/vram-guild/frex) ⭐ 17 | 🐛 1 | 🌐 Java | 📅 2024-07-31 features to Minecraft JSON model loading. ([Wiki](https://github.com/vram-guild/json-model-extensions/wiki) ⭐ 22 | 🐛 4 | 🌐 Java | 📅 2024-07-31) `LGPL-3`
 * [JsonEM](https://github.com/FoundationGames/JsonEM) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16 [`🏰`](https://modrinth.com/mod/jsonem) `🔝 26.1.1` - Library for modders, resource pack makers, and modpack makers to create and edit entity models with JSON. ([Wiki](https://github.com/FoundationGames/JsonEM/blob/1.18/README.md) ⭐ 20 | 🐛 9 | 🌐 Java | 📅 2026-04-16) `MIT`
@@ -176,7 +176,7 @@ The following symbols are used in this list:
 
 ### Generators
 
-* [GeneratorFabricMod](https://github.com/ExtraCrafTX/GeneratorFabricMod) ⭐ 100 | 🐛 5 | 🌐 Java | 📅 2022-05-26 - Prompts for various information and outputs a skeleton mod, ready to be modified. `Apache-2.0`
+* [GeneratorFabricMod](https://github.com/ExtraCrafTX/GeneratorFabricMod) ⭐ 99 | 🐛 5 | 🌐 Java | 📅 2022-05-26 - Prompts for various information and outputs a skeleton mod, ready to be modified. `Apache-2.0`
 
 ### Versioning
 
@@ -184,7 +184,7 @@ The following symbols are used in this list:
 
 ### IDE Plugins
 
-* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,828 | 🐛 230 | 🌐 Kotlin | 📅 2026-11-24 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
+* [Minecraft Development for IntelliJ](https://github.com/minecraft-dev/MinecraftDev) ⭐ 1,829 | 🐛 230 | 🌐 Kotlin | 📅 2026-11-27 - Plugin for IntelliJ IDEA that helps with mixins, fabric.mod.json files and contains a lot of other small tweaks. ([Wiki](https://minecraftdev.org/docs)) `MIT`
 
 ### Mappings
 
@@ -194,4 +194,4 @@ The following symbols are used in this list:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
